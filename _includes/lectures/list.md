@@ -1,0 +1,6 @@
+1. [HTML & CSS Best Practices](/assets/HTML_CSS_Best_Practices.pdf)
+2. [JS Libraries](/assets/JS_Libraries.pdf)
+3. As part of the front-end course created for students of the Faculty of Mathematics and Mechanics (BSU)
+ * [HTML](/assets/HTML.pdf)
+ * [DOM & BOM](/assets/DOM_BOM.pdf)
+ * [Environment setup / Best practices / Debugging / Profiling](/assets/Debugging_Profiling_Best_Practices.pdf)

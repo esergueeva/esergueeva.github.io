@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">PDF Lectures (in Russian)</h1>
+
+	<section id="program" class="course-description-item">
+        {% capture program %}{% include lectures/list.md %}{% endcapture %}
+        {{ program | markdownify }}
+    </section>
+
+</div>
